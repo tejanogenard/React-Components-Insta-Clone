@@ -18,8 +18,8 @@ const App = () => {
     <div className="App">
       {/* Add imported components here to render them */}
     <h1> Title</h1>
-        <PostsPage />
         <SearchBar />
+        <PostsPage />
 
     </div>
   );
